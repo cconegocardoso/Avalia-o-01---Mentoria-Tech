@@ -1,5 +1,3 @@
-Prova Avaliativa da Disciplina Mentoria Tech
-Práticas
 Atividade 01 - Simulando um sistema escolar, crie um algoritmo em Java que receba do aluno as 8 notas anuais. O algoritmo deve calcular as médias bimestrais, as médias semestrais, e a média final. Ao final dos cálculos, o algoritmo deve apresentar os resultados de forma clara.
 Por Exemplo:
 1º Bimestre: 6.0
